@@ -1,0 +1,10 @@
+label_id,record_type,record_id,anomaly_type,variant,description
+GT-000001,credential,CRED-XB41GPENYHSV,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000002,credential,CRED-HN5XFEFPDH1X,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000003,credential,CRED-G3BA2Q1HWX2Y,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000004,issuance_attempt,ATT-000003,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-FKVGJGZTPHRQ.
+GT-000005,issuance_attempt,ATT-000004,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-149TQTZM4ENX.
+GT-000006,verification_request,VER-0000022,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000007,verification_request,VER-0000030,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000008,verification_request,VER-0000008,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000009,verification_request,VER-0000044,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.

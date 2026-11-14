@@ -1,0 +1,251 @@
+label_id,record_type,record_id,anomaly_type,variant,description
+GT-000001,credential,CRED-0EVQ03HFD8Q6,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000002,credential,CRED-FDQDDBZJYECW,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000003,credential,CRED-DPQQMHW9FVKX,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000004,credential,CRED-FJG70ZK57BXT,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000005,credential,CRED-0HJYXYKAPH95,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000006,credential,CRED-4HP1380TPHEQ,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000007,credential,CRED-1X619H9AD05F,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000008,credential,CRED-CXQHE6EHE5W1,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000009,credential,CRED-CWKBM2XWD6BE,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000010,credential,CRED-83B1MZ7W8YNX,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000011,credential,CRED-DVXPQAQKCMPP,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000012,credential,CRED-GM7AQVEQVZD4,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000013,credential,CRED-2FJ7DCHD1AQE,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000014,credential,CRED-B2NF7Q9WQA58,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000015,credential,CRED-N69VYK7PT6R2,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000016,credential,CRED-AK2VRD0PMHG3,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000017,credential,CRED-C45V689JM6MN,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000018,credential,CRED-N7E9Y6KZ5FDJ,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000019,credential,CRED-M5PQGFCBQW7E,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000020,credential,CRED-HWGGRMC4VR3M,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000021,credential,CRED-YQY8AVH4BGK0,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000022,credential,CRED-VPRSFB7VM09P,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000023,credential,CRED-KCDEM36XXWV1,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000024,credential,CRED-TRE2NVSG8D1G,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000025,credential,CRED-4KBCH6MD2JQW,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000026,credential,CRED-QJXXGWW9SWVA,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000027,credential,CRED-F7EFK7EH3BJG,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000028,credential,CRED-ZK44QVGHJFQX,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000029,credential,CRED-1CERPGAPXHB8,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000030,credential,CRED-FKP60HR85FM0,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000031,credential,CRED-18HS7CS6GZNR,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000032,credential,CRED-XRYR1HNWT70Q,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000033,credential,CRED-8FV5WNJ5X0CW,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000034,credential,CRED-248731JBAH0P,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000035,credential,CRED-EH1FNY3BREDY,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000036,credential,CRED-X53MS57A1EN3,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000037,credential,CRED-W04SV7VNS3P5,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000038,credential,CRED-G4BJJ947HYSA,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000039,credential,CRED-7S86H16B2E3A,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000040,credential,CRED-EH7G9CGD7H80,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000041,credential,CRED-TXY5NRX9JP82,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000042,credential,CRED-A5CC6Q65VC7Z,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000043,credential,CRED-JV4VSH1KCDQ4,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000044,credential,CRED-0PR8ZV7QJ462,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000045,credential,CRED-KD0SP7YQRRME,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000046,credential,CRED-A1X44XQQCFCS,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000047,credential,CRED-S4PJ40YR9DBX,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000048,credential,CRED-Z8QBGQWM5YSK,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000049,credential,CRED-4J98B3GZRC4J,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000050,credential,CRED-M93TXHNXV4PD,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000051,credential,CRED-RXV8JHFR0VH4,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000052,credential,CRED-MWK6QJGEYHMK,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000053,credential,CRED-8RNW2SBKG0JK,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000054,credential,CRED-52JAC2QRFK0H,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000055,credential,CRED-546SY366QE86,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000056,credential,CRED-DRP0PTKRDFYF,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000057,credential,CRED-WV9YPXJA9ZQ6,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000058,credential,CRED-PZ6TYCNBV5X9,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000059,credential,CRED-46V2N0EJ6KG4,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000060,credential,CRED-EDASZ5NSMQKW,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000061,credential,CRED-FX8FPS43DDEQ,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000062,credential,CRED-53PE4RT242G2,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000063,credential,CRED-AA87MBD19NPM,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000064,credential,CRED-RRXKRWNYZPFA,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000065,credential,CRED-VRK1MJT707FC,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000066,credential,CRED-3NWBW4DMV7CS,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000067,credential,CRED-ZPKRK201Z9JN,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000068,credential,CRED-R2WEQZ75TXGA,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000069,credential,CRED-ZG135EH6FJAZ,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000070,credential,CRED-0JJPBRDA6QDM,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000071,credential,CRED-FHJFYKTZ5T9M,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000072,credential,CRED-HW35KH5T60YN,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000073,credential,CRED-3SJAHAPQ4D9H,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000074,credential,CRED-BMXQA3J0NDA2,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000075,credential,CRED-GTEBH5STQ7TA,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000076,credential,CRED-DWDE1X68PMQR,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000077,credential,CRED-2QCPHMPKJKQ6,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000078,credential,CRED-0W3V55DG677Y,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000079,credential,CRED-257XPPCRR2H3,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000080,credential,CRED-3V0EM255X48N,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000081,credential,CRED-ZMFZQHB2EQN3,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000082,credential,CRED-V19Q0DZJY0ZM,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000083,credential,CRED-Q4MKPDYZVCER,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000084,credential,CRED-BCN18GMHHVZQ,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000085,credential,CRED-J0DZS2X26P8Z,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000086,credential,CRED-80C2PABX6XF5,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000087,credential,CRED-53APNKR552C1,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000088,credential,CRED-NGBTBTXQTH77,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000089,credential,CRED-XDJDBMJ0H7CE,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000090,credential,CRED-229GY13R0YGW,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000091,credential,CRED-24SZ3QGT2AY4,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000092,credential,CRED-XJ5FRQZH83T8,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000093,credential,CRED-T6Z2H660BJP2,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000094,credential,CRED-Y27RAKB6M9M1,issued_before_completion,completion_not_completed,Evidence completion has status in_progress; the learner had not completed the course.
+GT-000095,credential,CRED-2W5H2SCWV17S,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000096,credential,CRED-GPW4CJGZ14NZ,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000097,credential,CRED-QWPP5GNK63HP,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000098,credential,CRED-4NRXT32FXJ1K,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000099,credential,CRED-6K53P84BMCWM,issued_before_completion,issued_before_completed_at,Credential issued before the evidence completion's completed_at.
+GT-000100,credential,CRED-Y28KFKF2R3XZ,issued_before_completion,completion_not_completed,Evidence completion has status failed; the learner had not completed the course.
+GT-000101,issuance_attempt,ATT-000051,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-VRPKPX3AR1FQ.
+GT-000102,issuance_attempt,ATT-000052,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-RA9K6TNJRX0E.
+GT-000103,issuance_attempt,ATT-000053,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-FVCYE2V99BFP.
+GT-000104,issuance_attempt,ATT-000054,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-8X5EA28ZP9BF.
+GT-000105,issuance_attempt,ATT-000055,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-APTY2GYSKWSF.
+GT-000106,issuance_attempt,ATT-000056,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-BG6S8BHQMYHH.
+GT-000107,issuance_attempt,ATT-000057,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-R4VFKMSCKBE0.
+GT-000108,issuance_attempt,ATT-000058,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-PKRKGJFJ65KG.
+GT-000109,issuance_attempt,ATT-000059,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-4ZRP8P3S2374.
+GT-000110,issuance_attempt,ATT-000060,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-BRFC864ZCP31.
+GT-000111,issuance_attempt,ATT-000061,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-EBZ879KB1TBW.
+GT-000112,issuance_attempt,ATT-000062,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-W6W4HA564BVG.
+GT-000113,issuance_attempt,ATT-000063,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-0HE4XVPYGJBF.
+GT-000114,issuance_attempt,ATT-000064,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-N8XJ41M1SA6H.
+GT-000115,issuance_attempt,ATT-000065,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-Z9D0Y2P6H6BK.
+GT-000116,issuance_attempt,ATT-000066,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-ZWV0JB1YFBRR.
+GT-000117,issuance_attempt,ATT-000067,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-MXHSXJ0GE4ZP.
+GT-000118,issuance_attempt,ATT-000068,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-N38C3YNKNN8R.
+GT-000119,issuance_attempt,ATT-000069,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-MX2D8F11BMHD.
+GT-000120,issuance_attempt,ATT-000070,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-QC41R44WDVDG.
+GT-000121,issuance_attempt,ATT-000071,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-E77PA3S6RTXX.
+GT-000122,issuance_attempt,ATT-000072,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-2023C8Q4NHYS.
+GT-000123,issuance_attempt,ATT-000073,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-X52M62QVASCQ.
+GT-000124,issuance_attempt,ATT-000074,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-HTXZ8986HCDQ.
+GT-000125,issuance_attempt,ATT-000075,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-RMBFTM7R6MD7.
+GT-000126,issuance_attempt,ATT-000076,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-XC7WMF6BNDDV.
+GT-000127,issuance_attempt,ATT-000077,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-97ZM054QZ9CH.
+GT-000128,issuance_attempt,ATT-000078,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-E86XEA2SXQ5K.
+GT-000129,issuance_attempt,ATT-000079,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-Z1GNJGVXV74Z.
+GT-000130,issuance_attempt,ATT-000080,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-DHSPEEF3AD4C.
+GT-000131,issuance_attempt,ATT-000081,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-DSEEN49JQD2N.
+GT-000132,issuance_attempt,ATT-000082,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-EH978VVKAK5Y.
+GT-000133,issuance_attempt,ATT-000083,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-JVRE88M44S9H.
+GT-000134,issuance_attempt,ATT-000084,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-W9E2R0CAY9WP.
+GT-000135,issuance_attempt,ATT-000085,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-F2537ZY4MAFX.
+GT-000136,issuance_attempt,ATT-000086,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-RA87NSTQ4N95.
+GT-000137,issuance_attempt,ATT-000087,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-76RPRHGMXP6M.
+GT-000138,issuance_attempt,ATT-000088,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-E0ZPRYHMKPEV.
+GT-000139,issuance_attempt,ATT-000089,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-HCYVBRGT9PJP.
+GT-000140,issuance_attempt,ATT-000090,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-NG6TDP59DEK2.
+GT-000141,issuance_attempt,ATT-000091,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-1XRDPDJMS9WW.
+GT-000142,issuance_attempt,ATT-000092,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-69DK1W6EHPX5.
+GT-000143,issuance_attempt,ATT-000093,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-NX6W5621PHEX.
+GT-000144,issuance_attempt,ATT-000094,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-R988T7W66TXH.
+GT-000145,issuance_attempt,ATT-000095,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-MFFG9213D56W.
+GT-000146,issuance_attempt,ATT-000096,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-0RE76K59ZABK.
+GT-000147,issuance_attempt,ATT-000097,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-9XNJGCN70NCW.
+GT-000148,issuance_attempt,ATT-000098,duplicate_credential_id,same_learner_retry,Reuses existing credential ID CRED-Q7RVWRXS6P7K.
+GT-000149,issuance_attempt,ATT-000099,duplicate_credential_id,exact_duplicate,Reuses existing credential ID CRED-CS2C0MZ4093D.
+GT-000150,issuance_attempt,ATT-000100,duplicate_credential_id,case_variant,Reuses existing credential ID CRED-D0ZN1MTBSGEK.
+GT-000151,verification_request,VER-0000383,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000152,verification_request,VER-0000403,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000153,verification_request,VER-0000726,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000154,verification_request,VER-0001145,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000155,verification_request,VER-0001153,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000156,verification_request,VER-0001255,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000157,verification_request,VER-0001365,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000158,verification_request,VER-0001538,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000159,verification_request,VER-0001570,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000160,verification_request,VER-0001748,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000161,verification_request,VER-0001902,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000162,verification_request,VER-0002126,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000163,verification_request,VER-0002176,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000164,verification_request,VER-0002245,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000165,verification_request,VER-0002292,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000166,verification_request,VER-0002420,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000167,verification_request,VER-0002577,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000168,verification_request,VER-0002664,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000169,verification_request,VER-0002769,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000170,verification_request,VER-0002844,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000171,verification_request,VER-0002852,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000172,verification_request,VER-0002863,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000173,verification_request,VER-0002923,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000174,verification_request,VER-0003070,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000175,verification_request,VER-0003101,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000176,verification_request,VER-0003146,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000177,verification_request,VER-0003154,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000178,verification_request,VER-0003338,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000179,verification_request,VER-0003375,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000180,verification_request,VER-0003491,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000181,verification_request,VER-0003575,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000182,verification_request,VER-0003851,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000183,verification_request,VER-0003858,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000184,verification_request,VER-0003871,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000185,verification_request,VER-0003888,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000186,verification_request,VER-0004014,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000187,verification_request,VER-0004151,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000188,verification_request,VER-0004195,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000189,verification_request,VER-0004277,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000190,verification_request,VER-0004386,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000191,verification_request,VER-0004404,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000192,verification_request,VER-0004474,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000193,verification_request,VER-0004478,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000194,verification_request,VER-0004601,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000195,verification_request,VER-0004647,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000196,verification_request,VER-0004658,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000197,verification_request,VER-0004762,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000198,verification_request,VER-0004790,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000199,verification_request,VER-0004911,revoked_verified_as_valid,status_not_updated,Verified after revoked_at but recorded as valid.
+GT-000200,verification_request,VER-0004982,revoked_verified_as_valid,cache_stale,Verified after revoked_at but recorded as valid.
+GT-000201,verification_request,VER-0000207,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000202,verification_request,VER-0000385,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000203,verification_request,VER-0000446,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000204,verification_request,VER-0000473,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000205,verification_request,VER-0000702,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000206,verification_request,VER-0000762,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000207,verification_request,VER-0000766,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000208,verification_request,VER-0000777,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000209,verification_request,VER-0000865,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000210,verification_request,VER-0000902,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000211,verification_request,VER-0001105,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000212,verification_request,VER-0001197,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000213,verification_request,VER-0001317,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000214,verification_request,VER-0001469,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000215,verification_request,VER-0001470,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000216,verification_request,VER-0001542,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000217,verification_request,VER-0001580,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000218,verification_request,VER-0001633,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000219,verification_request,VER-0001807,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000220,verification_request,VER-0002079,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000221,verification_request,VER-0002343,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000222,verification_request,VER-0002375,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000223,verification_request,VER-0002646,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000224,verification_request,VER-0002682,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000225,verification_request,VER-0002802,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000226,verification_request,VER-0002965,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000227,verification_request,VER-0002967,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000228,verification_request,VER-0002986,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000229,verification_request,VER-0003283,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000230,verification_request,VER-0003370,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000231,verification_request,VER-0003390,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000232,verification_request,VER-0003405,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000233,verification_request,VER-0003442,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000234,verification_request,VER-0003600,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000235,verification_request,VER-0003819,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000236,verification_request,VER-0003864,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000237,verification_request,VER-0003928,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000238,verification_request,VER-0004036,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000239,verification_request,VER-0004066,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000240,verification_request,VER-0004085,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000241,verification_request,VER-0004176,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000242,verification_request,VER-0004208,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000243,verification_request,VER-0004213,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000244,verification_request,VER-0004383,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000245,verification_request,VER-0004527,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000246,verification_request,VER-0004614,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000247,verification_request,VER-0004772,tampered_payload_not_detected,course_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000248,verification_request,VER-0004875,tampered_payload_not_detected,expiry_extended,Presented payload differs from the signed payload but was recorded as valid.
+GT-000249,verification_request,VER-0004957,tampered_payload_not_detected,score_changed,Presented payload differs from the signed payload but was recorded as valid.
+GT-000250,verification_request,VER-0004974,tampered_payload_not_detected,name_changed,Presented payload differs from the signed payload but was recorded as valid.
